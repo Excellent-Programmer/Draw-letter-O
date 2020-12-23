@@ -1,0 +1,6 @@
+D:\Draw with C#\letter O\letter O\bin\Debug\letter O.exe.config
+D:\Draw with C#\letter O\letter O\bin\Debug\letter O.exe
+D:\Draw with C#\letter O\letter O\bin\Debug\letter O.pdb
+D:\Draw with C#\letter O\letter O\obj\Debug\letter O.csproj.CoreCompileInputs.cache
+D:\Draw with C#\letter O\letter O\obj\Debug\letter O.exe
+D:\Draw with C#\letter O\letter O\obj\Debug\letter O.pdb
